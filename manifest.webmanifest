@@ -1,0 +1,17 @@
+{
+  "name": "Hruzhee Expense Tracker",
+  "short_name": "Tracker",
+  "description": "Local expense, deposit, habit, alarm, and insight tracker.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0F0E0C",
+  "theme_color": "#0F0E0C",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
